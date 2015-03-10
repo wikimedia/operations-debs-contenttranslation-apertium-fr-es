@@ -1,0 +1,27 @@
+apertium-fr-es (0.9.2~r27040-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * New upstream release
+  * Significant changes in svn since tarball, so mixing new build scripts with
+    old data files
+
+  [ Kartik Mistry ]
+  * Fixed dependencies.
+  * Rebuilt for Trusty.
+  * Skip tests until we figure out locale issues with upstream.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 02 Apr 2015 16:44:57 +0530
+
+apertium-fr-es (0.9.0-1) unstable; urgency=low
+
+  * New upstream release
+  * Added dependency to apertium-pcre2
+
+ -- Francis Tyers <ftyers@prompsit.com>  Tue, 03 Mar 2009 21:21:52 +0000
+
+apertium-fr-es (0.8.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #465770)
+
+
+ -- Francis Tyers <ftyers@prompsit.com>  Thu, 14 Feb 2008 16:34:15 +0100
